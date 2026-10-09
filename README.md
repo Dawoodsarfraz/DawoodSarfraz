@@ -1,1 +1,1 @@
-Interested in deep learning and reinforcement learning.
+Interested in neural networks and reinforcement learning.
