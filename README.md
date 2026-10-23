@@ -1,1 +1,1 @@
-Interested in neural networks and reinforcement learning.
+Interested in neural networks, reinforcement learning and robotics.
